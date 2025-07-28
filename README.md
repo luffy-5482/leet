@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/luffy-5482/leet/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/luffy-5482/leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/luffy-5482/leet/tree/master/0015-3sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/luffy-5482/leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/luffy-5482/leet/tree/master/0015-3sum) |
 ## Sorting
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/luffy-5482/leet/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/luffy-5482/leet/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
