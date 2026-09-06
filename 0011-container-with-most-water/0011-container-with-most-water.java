@@ -5,9 +5,7 @@ class Solution {
         int last = height.length-1;
         while (first<last){
             int area =(last-first)*Math.min(height[last],height[first]);
-            if(answer<area){
-                answer=area;
-            }
+            answer=Math.max(area,answer);
 
             if(height[first]<height[last])
                 first++;
