@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/luffy-5482/leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/luffy-5482/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/luffy-5482/leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/luffy-5482/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/luffy-5482/leet/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/luffy-5482/leet/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 ## Recursion
 |  |
 | ------- |
@@ -83,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
