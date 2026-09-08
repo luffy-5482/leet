@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
