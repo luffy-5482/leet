@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/luffy-5482/leet/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/luffy-5482/leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/luffy-5482/leet/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luffy-5482/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0392-is-subsequence](https://github.com/luffy-5482/leet/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/luffy-5482/leet/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/luffy-5482/leet/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/luffy-5482/leet/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
