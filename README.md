@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luffy-5482/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/luffy-5482/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/luffy-5482/leet/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/luffy-5482/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
