@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/luffy-5482/leet/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/luffy-5482/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/luffy-5482/leet/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/luffy-5482/leet/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
