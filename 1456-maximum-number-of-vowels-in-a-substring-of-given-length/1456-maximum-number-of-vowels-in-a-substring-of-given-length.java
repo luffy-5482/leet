@@ -20,8 +20,7 @@ class Solution {
 
             if(Vowels.contains(s.charAt(i)))
             sum++;
-            if(answer<sum)
-            answer=sum;
+            answer=Math.max(answer,sum);
         }
         return answer;
     }
