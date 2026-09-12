@@ -19,7 +19,6 @@ class Solution {
         for (int i=0;i<k;i++){
             sum+=nums[i];
         }
-        
         answer=sum;
         for (int i=0 ; i<nums.length-k;i++){
             if(nums.length!=k){
