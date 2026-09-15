@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public List<String> commonChars(String[] words) {
         // Count characters in the first word
