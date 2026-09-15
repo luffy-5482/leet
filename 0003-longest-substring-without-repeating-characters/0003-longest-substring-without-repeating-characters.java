@@ -4,10 +4,9 @@ class Solution {
         int answer = 0;
         int left = 0;
         for (int right = 0; right < s.length(); right++) {
-            while (count.contains(s.charAt(right))) {
+            while (count.contains(s.charAt(right))) {//so this will run until the duplicate element is removed from the set 
                 count.remove(s.charAt(left));
                 left++;
-
             }
 
             count.add(s.charAt(right));
