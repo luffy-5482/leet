@@ -1,46 +1,48 @@
 class Solution {
-    public String minWindow(String s, String t) {
-        if (s.length() < t.length()) {
-            return "";
-        }
+   
+  String minWindow(String s, String t) {
 
-        Map<Character, Integer> charCount = new HashMap<>();
-        for (char ch : t.toCharArray()) {
-            charCount.put(ch, charCount.getOrDefault(ch, 0) + 1);
-        }
+    // Count characters in s
+    int[] mapS = new int[256];
 
-        int targetCharsRemaining = t.length();
-        int[] minWindow = {0, Integer.MAX_VALUE};
-        int startIndex = 0;
+    // Count characters in t
+    int[] mapT = new int[256];
 
-        for (int endIndex = 0; endIndex < s.length(); endIndex++) {
-            char ch = s.charAt(endIndex);
-            if (charCount.containsKey(ch) && charCount.get(ch) > 0) {
-                targetCharsRemaining--;
-            }
-            charCount.put(ch, charCount.getOrDefault(ch, 0) - 1);
+    for (char ch : t.toCharArray())
+      mapT[ch]++;
 
-            if (targetCharsRemaining == 0) {
-                while (true) {
-                    char charAtStart = s.charAt(startIndex);
-                    if (charCount.containsKey(charAtStart) && charCount.get(charAtStart) == 0) {
-                        break;
-                    }
-                    charCount.put(charAtStart, charCount.getOrDefault(charAtStart, 0) + 1);
-                    startIndex++;
-                }
+    String result = "";
+    int right = 0, min = Integer.MAX_VALUE;
 
-                if (endIndex - startIndex < minWindow[1] - minWindow[0]) {
-                    minWindow[0] = startIndex;
-                    minWindow[1] = endIndex;
-                }
+    // Two pointers of the sliding window: i(left), right
+    for (int i = 0; i < s.length(); i++) {
 
-                charCount.put(s.charAt(startIndex), charCount.getOrDefault(s.charAt(startIndex), 0) + 1);
-                targetCharsRemaining++;
-                startIndex++;
-            }
-        }
+      while (right < s.length() && !isDesirable(mapS, mapT)) {
+        mapS[s.charAt(right)]++;
 
-        return minWindow[1] >= s.length() ? "" : s.substring(minWindow[0], minWindow[1] + 1);        
+        // Extend the right pointer of the sliding window
+        right++;
+      }
+
+      if (isDesirable(mapS, mapT) && min > right - i + 1) {
+        result = s.substring(i, right);
+        min = right - i + 1;
+      }
+
+      // Shrink the left pointer from i to i + 1
+      mapS[s.charAt(i)]--;
     }
+
+    return result;
+  }
+
+  // Runtime = O(256) = O(1)
+  private boolean isDesirable(int[] mapS, int[] mapT) {
+    // s should cover all characters in t
+    for (int i = 0; i < mapT.length; i++) {
+      if (mapT[i] > mapS[i])
+        return false;
+    }
+    return true;
+}
 }
