@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/luffy-5482/leet/tree/master/0643-maximum-average-subarray-i) |
 | [1002-find-common-characters](https://github.com/luffy-5482/leet/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/luffy-5482/leet/tree/master/0872-leaf-similar-trees) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
