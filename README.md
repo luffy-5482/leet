@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/luffy-5482/leet/tree/master/0724-find-pivot-index) |
 | [1002-find-common-characters](https://github.com/luffy-5482/leet/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/luffy-5482/leet/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
 ## Tree
 |  |
 | ------- |
