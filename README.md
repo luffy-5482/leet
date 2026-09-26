@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/luffy-5482/leet/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/luffy-5482/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/luffy-5482/leet/tree/master/0011-container-with-most-water) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/luffy-5482/leet/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Tree
 |  |
 | ------- |
