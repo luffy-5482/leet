@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/luffy-5482/leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/luffy-5482/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/luffy-5482/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/luffy-5482/leet/tree/master/0724-find-pivot-index) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/luffy-5482/leet/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/luffy-5482/leet/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/luffy-5482/leet/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/luffy-5482/leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/luffy-5482/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/luffy-5482/leet/tree/master/0567-permutation-in-string) |
 | [1002-find-common-characters](https://github.com/luffy-5482/leet/tree/master/1002-find-common-characters) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/luffy-5482/leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/luffy-5482/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/luffy-5482/leet/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
