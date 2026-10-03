@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/luffy-5482/leet/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/luffy-5482/leet/tree/master/0392-is-subsequence) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/luffy-5482/leet/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/luffy-5482/leet/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/luffy-5482/leet/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Tree
 |  |
 | ------- |
