@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/luffy-5482/leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/luffy-5482/leet/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1310-xor-queries-of-a-subarray](https://github.com/luffy-5482/leet/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/luffy-5482/leet/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/luffy-5482/leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1002-find-common-characters](https://github.com/luffy-5482/leet/tree/master/1002-find-common-characters) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## String
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/luffy-5482/leet/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/luffy-5482/leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1310-xor-queries-of-a-subarray](https://github.com/luffy-5482/leet/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -190,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/luffy-5482/leet/tree/master/1310-xor-queries-of-a-subarray) |
+## Matrix
+|  |
+| ------- |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
