@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/luffy-5482/leet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/luffy-5482/leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/luffy-5482/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/luffy-5482/leet/tree/master/0643-maximum-average-subarray-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/luffy-5482/leet/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/luffy-5482/leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/luffy-5482/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/luffy-5482/leet/tree/master/0724-find-pivot-index) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/luffy-5482/leet/tree/master/0304-range-sum-query-2d-immutable) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/luffy-5482/leet/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
