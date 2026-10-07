@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1310-xor-queries-of-a-subarray](https://github.com/luffy-5482/leet/tree/master/1310-xor-queries-of-a-subarray) |
+| [1314-matrix-block-sum](https://github.com/luffy-5482/leet/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Two Pointers
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1310-xor-queries-of-a-subarray](https://github.com/luffy-5482/leet/tree/master/1310-xor-queries-of-a-subarray) |
+| [1314-matrix-block-sum](https://github.com/luffy-5482/leet/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/luffy-5482/leet/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/luffy-5482/leet/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1314-matrix-block-sum](https://github.com/luffy-5482/leet/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
