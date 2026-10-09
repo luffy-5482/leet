@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/luffy-5482/leet/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/luffy-5482/leet/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/luffy-5482/leet/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/luffy-5482/leet/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/luffy-5482/leet/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Stack
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/luffy-5482/leet/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/luffy-5482/leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/luffy-5482/leet/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/luffy-5482/leet/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/luffy-5482/leet/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/luffy-5482/leet/tree/master/1480-running-sum-of-1d-array) |
@@ -203,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/luffy-5482/leet/tree/master/0304-range-sum-query-2d-immutable) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/luffy-5482/leet/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/luffy-5482/leet/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1314-matrix-block-sum](https://github.com/luffy-5482/leet/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
