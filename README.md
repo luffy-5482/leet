@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/luffy-5482/leet/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/luffy-5482/leet/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/luffy-5482/leet/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/luffy-5482/leet/tree/master/0304-range-sum-query-2d-immutable) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/luffy-5482/leet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/luffy-5482/leet/tree/master/0217-contains-duplicate) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/luffy-5482/leet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/luffy-5482/leet/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/luffy-5482/leet/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/luffy-5482/leet/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/luffy-5482/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/luffy-5482/leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/luffy-5482/leet/tree/master/0560-subarray-sum-equals-k) |
