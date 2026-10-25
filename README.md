@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/luffy-5482/leet/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/luffy-5482/leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/luffy-5482/leet/tree/master/0242-valid-anagram) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/luffy-5482/leet/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/luffy-5482/leet/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/luffy-5482/leet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/luffy-5482/leet/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/luffy-5482/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/luffy-5482/leet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/luffy-5482/leet/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/luffy-5482/leet/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/luffy-5482/leet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/luffy-5482/leet/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/luffy-5482/leet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/luffy-5482/leet/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/luffy-5482/leet/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/luffy-5482/leet/tree/master/0567-permutation-in-string) |
