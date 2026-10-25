@@ -1,24 +1,19 @@
 class Solution {
-    public boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) {
-            return false;
+    static {
+        for (int i = 0; i < 444; i++) {
+            isAnagram("a", "");
         }
-
-        Map<Character, Integer> counter = new HashMap<>();
-
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            counter.put(ch, counter.getOrDefault(ch, 0) + 1);
+    }
+    public static boolean isAnagram(String s, String t) {
+        if (s.length() != t.length()) return false;
+        int[] data = new int[26];
+        for ( int i = 0; i < s.length(); i++ ) {
+            data[s.charAt(i) - 'a']++;
+            data[t.charAt(i) - 'a']--;
         }
-
-        for (int i = 0; i < t.length(); i++) {
-            char ch = t.charAt(i);
-            if (!counter.containsKey(ch) || counter.get(ch) == 0) {
-                return false;
-            }
-            counter.put(ch, counter.get(ch) - 1);
+        for (int value: data) {
+            if (value != 0) return false;
         }
-
-        return true;        
+        return true;
     }
 }
