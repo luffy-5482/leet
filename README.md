@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/luffy-5482/leet/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/luffy-5482/leet/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/luffy-5482/leet/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/luffy-5482/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/luffy-5482/leet/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/luffy-5482/leet/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
