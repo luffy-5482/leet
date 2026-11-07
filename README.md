@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/luffy-5482/leet/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/luffy-5482/leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/luffy-5482/leet/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/luffy-5482/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/luffy-5482/leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/luffy-5482/leet/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/luffy-5482/leet/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/luffy-5482/leet/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/luffy-5482/leet/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/luffy-5482/leet/tree/master/0392-is-subsequence) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/luffy-5482/leet/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Recursion
