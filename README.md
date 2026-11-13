@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/luffy-5482/leet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/luffy-5482/leet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/luffy-5482/leet/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/luffy-5482/leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/luffy-5482/leet/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/luffy-5482/leet/tree/master/0118-pascals-triangle) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/luffy-5482/leet/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/luffy-5482/leet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/luffy-5482/leet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/luffy-5482/leet/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/luffy-5482/leet/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/luffy-5482/leet/tree/master/0392-is-subsequence) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/luffy-5482/leet/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/luffy-5482/leet/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/luffy-5482/leet/tree/master/0055-jump-game) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/luffy-5482/leet/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
