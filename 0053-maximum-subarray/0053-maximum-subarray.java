@@ -6,8 +6,6 @@ class Solution {
         for (int num : nums) {
             currentSum += num;
             maxSum = Math.max(maxSum, currentSum);
-
-            // If running sum drops below zero, discard the prefix
             if (currentSum < 0) {
                 currentSum = 0;
             }
